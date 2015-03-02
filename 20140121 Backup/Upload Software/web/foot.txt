@@ -1,0 +1,9 @@
+</table>
+<p>&nbsp;</p>
+
+<p style="text-align:center; font-size: 90%">Sample  PHP Upload handler provided by
+ <a href="http://www.thinfile.com/?dn">Thin File</a></p>
+ <p>&nbsp;</p>
+
+</body>
+</html>
